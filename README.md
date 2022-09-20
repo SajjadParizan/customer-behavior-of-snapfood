@@ -16,7 +16,7 @@ in order to do this I will answer 4 questions
 
 in order to find the answers to the above questions you can checkout these notebooks in order
 
-check out *[1.1 cohort analysis (based on week) main.ipynb](notebooks/1.1 cohort analysis (based on week) main.ipynb) in order to understand how to create cohort analysis.
+check out *[1.1 cohort analysis (based on week) main.ipynb](https://github.com/SajjadParizan/customer-behavior-of-snapfood/blob/main/notebooks/1.1%20cohort%20analysis%20(based%20on%20week)%20main.ipynb) in order to understand how to create cohort analysis.
 
 check out *[1.2 new customer orders.ipynb](notebooks/1.2 new customer orders.ipynb) in order to see how I modeled the customers orders to find out what is the number of orders in July.
 
